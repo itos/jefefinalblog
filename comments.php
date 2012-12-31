@@ -5,10 +5,10 @@ The comments page for Bones
 
 // Do not delete these lines
   if (!empty($_SERVER['SCRIPT_FILENAME']) && 'comments.php' == basename($_SERVER['SCRIPT_FILENAME']))
-    die ('Please do not load this page directly. Thanks!');
+    die ('Por favor, no cargue esta página directamente. ¡Gracias!');
 
   if ( post_password_required() ) { ?>
-  	<div class="alert alert-info"><?php _e("This post is password protected. Enter the password to view comments.","bonestheme"); ?></div>
+  	<div class="alert alert-info"><?php _e("Esta entrada está protegida. Introduzca la contraseña para ver los comentarios.","bonestheme"); ?></div>
   <?php
     return;
   }

@@ -10,8 +10,8 @@
 
 							<div class="hero-unit">
 							
-								<h1>Epic 404 - Article Not Found</h1>
-								<p>This is embarassing. We can't find what you were looking for.</p>
+								<h1>Epic 404 - Artículo no encontrado.</h1>
+								<p>Vuelve al inicio o usa el botón de buscar para encontrar lo que querías.</p>
 															
 							</div>
 													
@@ -19,7 +19,7 @@
 					
 						<section class="post_content">
 							
-							<p>Whatever you were looking for was not found, but maybe try looking again or search using the form below.</p>
+							<p>Lo que estabas buscando no fue encontrado, intenta buscar nuevamente o utilizando el formulario a continuación.</p>
 
 							<div class="row-fluid">
 								<div class="span12">

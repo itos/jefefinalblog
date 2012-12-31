@@ -43,10 +43,10 @@ Template Name: Left Sidebar Page
 					
 					<article id="post-not-found">
 					    <header>
-					    	<h1><?php _e("Not Found", "bonestheme"); ?></h1>
+					    	<h1><?php _e("No encontrado", "bonestheme"); ?></h1>
 					    </header>
 					    <section class="post_content">
-					    	<p><?php _e("Sorry, but the requested resource was not found on this site.", "bonestheme"); ?></p>
+					    	<p><?php _e("Lo siento, pero lo solicitado no ha sido encontrado en el sitio.", "bonestheme"); ?></p>
 					    </section>
 					    <footer>
 					    </footer>
