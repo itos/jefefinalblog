@@ -137,7 +137,7 @@
 		
 		<div class="container-fluid">
 
-			<div id="ads header">
+			<div id="ads_header">
 			<script type="text/javascript"><!--
 			google_ad_client = "ca-pub-8061270876469148";
 			/* JefeFinalBlog - Header */
