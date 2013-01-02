@@ -136,3 +136,17 @@
 		}(document, 'script', 'facebook-jssdk'));</script>
 		
 		<div class="container-fluid">
+
+			<div id="ads header">
+			<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-8061270876469148";
+			/* JefeFinalBlog - Header */
+			google_ad_slot = "9554365644";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			</div>

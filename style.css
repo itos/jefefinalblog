@@ -637,3 +637,8 @@ font-weight: bold;
 display: inline-block;
 margin-right: 10px;
 }
+
+/* ads */
+#ads_header {
+text-align: center;	
+}
