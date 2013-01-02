@@ -50,6 +50,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html http://www.apache.org/lice
 
 body{
 	padding-top: 0;
+	background-color: #fff;
+	background-image: url(http://d3rtbvczwo197u.cloudfront.net/themes/board/images/grain.png);
+	color: #555;
 }
 
 /* Admin Top Navigation fixes */
@@ -62,11 +65,12 @@ body.admin-bar .navbar-fixed-top{
 	color: #000 !important;
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 30px rgba(255, 255, 255, 0.125);
 	font-weight: bold !important;
+	padding: 0px;
 }
 
-.nav-container{
-	padding-left: 0;
-	padding-right: 0;
+.navbar-inner, .navbar .fill {
+background-color: #1b1b1b;
+background-image: url(http://se5revolution.s3.amazonaws.com/uploads/994/26290.png);
 }
 
 #inner-header{
@@ -580,7 +584,7 @@ blockquote.pull-left{
 	}
 	
 	#s{
-		width: 210px;
+		width: 150px;
 		margin-bottom: 6px;
 	}
 	
@@ -592,4 +596,44 @@ blockquote.pull-left{
 		padding-left: 0;
 		padding-right: 0;
 	}
+}
+
+/* sidebar posts */
+
+.social_follow {
+padding: 12px 15px 15px;
+border: 1px solid #ddd;
+width: 268px;
+background-color: #fff;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.facebook_follow {
+padding-top: 7px;
+padding-bottom: 5px;
+}
+
+.twitter_follow {
+padding-top: 7px;
+padding-bottom: 5px;
+border-top: 1px solid #ddd;
+}
+
+.other_follow {
+padding-top: 7px;
+padding-bottom: 5px;
+border-top: 1px solid #ddd;
+}
+
+.other_follow h5 {
+line-height: 8px;
+float: left;
+margin-right: 15px;
+float: left;
+font-weight: bold;
+}
+
+.other_follow a {
+display: inline-block;
+margin-right: 10px;
 }

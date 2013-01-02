@@ -98,7 +98,7 @@
 					<div class="navbar-inner">
 						<div class="container-fluid nav-container">
 							<nav role="navigation">
-								<a class="brand" id="logo" title="<?php echo get_bloginfo('description'); ?>" href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a>
+								<a class="brand" id="logo" href="/" title="JefeFinal">          <img src="http://se5revolution.s3.amazonaws.com/uploads/994/24603.png" alt="JefeFinal" height="40" width="208">      </a>
 								
 								<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 							        <span class="icon-bar"></span>
