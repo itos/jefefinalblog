@@ -642,3 +642,8 @@ margin-right: 10px;
 #ads_header {
 text-align: center;	
 }
+
+/* social share */
+.social_share_bar {
+padding: 10px 0px;	
+}

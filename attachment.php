@@ -15,6 +15,18 @@
 							<p class="meta"><?php _e("Posteado", "bonestheme"); ?> <time datetime="<?php echo the_time('Y-m-j'); ?>" pubdate><?php the_date(); ?></time> <?php _e("por", "bonestheme"); ?> <?php the_author_posts_link(); ?>  <?php _e("en", "bonestheme"); ?> <?php the_category(', '); ?>.</p>
 						
 						</header> <!-- end article header -->
+						
+						<div class="social_share_bar">
+						<!-- AddThis Button BEGIN -->
+						<div class="addthis_toolbox addthis_default_style ">
+						<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+						<a class="addthis_button_tweet" tw:via="JefeFinal"></a>
+						<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+						<a class="addthis_counter addthis_pill_style"></a>
+						</div>
+						<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50dd43fe65e59342"></script>
+						<!-- AddThis Button END -->
+						</div>
 					
 						<section class="post_content clearfix" itemprop="articleBody">
 							
